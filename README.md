@@ -17,7 +17,7 @@ Peculiarities in the data indicate vote tampering (by any entity/entities whatso
 ![](img/turnout_vs_result_putin_2018_zoomed.png)
 **Fig. 2** - Same like Fig 1, but zoomed into the upper right corner.
 
-When plotting for every voting site the result in percent for a candidate or party against the voter turnout in percent at that voting site, possible irregularities can be visualized as deviations from a 2-dimensional gauss form in this density plot. A statistical clustering of points near the 100% turnout/100% votes-corner in that scatterplot for example is regarded as a hint for ballot stuffing (as an appropriate scientific publication, see for example Statistical detection of systematic election irregularities by Klimek et. al, PNAS, 2012, [link](http://www.pnas.org/content/109/41/16469)).
+When plotting for every voting site the result in percent for a candidate or party against the voter turnout in percent at that voting site, possible irregularities can be visualized as deviations from a 2-dimensional gauss form in this density plot (Fig. 1). A statistical clustering of points near the 100% turnout/100% votes-corner in that scatterplot for example is regarded as a hint for ballot stuffing (as an appropriate scientific publication, see for example Statistical detection of systematic election irregularities by Klimek et. al, PNAS, 2012, [link](http://www.pnas.org/content/109/41/16469)).
 
 My first analysis revealed irregularities not only for the results of the winning candidate Putin Vladimir Vladimirovich, but also for at least one other candidate (Grudinin Pavel Nikolayevich).
 
